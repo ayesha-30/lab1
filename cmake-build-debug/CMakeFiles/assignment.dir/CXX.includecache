@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/assignment/UnsortedList.h
+UnsortedList.tpp
+D:/assignment/UnsortedList.tpp
+
+D:/assignment/UnsortedList.tpp
+UnsortedList.h
+D:/assignment/UnsortedList.h
+
+D:/assignment/main.cpp
+iostream
+-
+UnsortedList.h
+D:/assignment/UnsortedList.h
+
